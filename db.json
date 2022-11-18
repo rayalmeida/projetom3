@@ -1,0 +1,51 @@
+{
+  "restaurante-ray": [
+    {
+      "id": 1,
+      "name": "lasanha c/ acompanhamentos"
+    },
+    {
+      "id": 2,
+      "name": "carne Assada c/ acompanhamentos"
+    },
+    {
+      "id": 3,
+      "name": "churrasco c/s acompanhamentos"
+    },
+    {
+      "id": 4,
+      "name": "feijoada c/ acompanhamentos"
+    },
+    {
+      "id": 5,
+      "name": "bife c/ batata frita e acompanhamentos"
+    }
+  ],
+  "preços": [
+    {
+      "id": 1,
+      "name": "lasanha c/ acompanhamentos",
+      "tema": "R$ 60,OO"
+    },
+    {
+      "id": 2,
+      "name": "carne Assada c/ acompanhamentos",
+      "tema": "R$ 80,00"
+    },
+    {
+      "id": 3,
+      "name": "churrasco c/s acompanhamentos",
+      "tema": "R$ 90,00"
+    },
+    {
+      "id": 4,
+      "name": "feijoada c/ acompanhamentos",
+      "tema": "R$ 50,00"
+    },
+    {
+      "id": 5,
+      "name": "bife c/ batata frita e acompanhamentos",
+      "tema": "R$ 70,00"
+    }
+  ]
+}
